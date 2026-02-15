@@ -1,0 +1,28 @@
+[h1]CursorToggle – Double-Tap to Toggle Mouse Cursor[/h1]
+
+[b]A StationeersLaunchPad mod that lets you double-tap the MouseControl key (default: Alt) to toggle the mouse cursor on/off, instead of having to hold it.[/b]
+
+[h2]Features[/h2]
+[list]
+[*] Single tap (hold) Alt: vanilla hold-to-show behaviour
+[*] Double-tap Alt: toggle cursor on permanently until you double-tap again
+[*] Works with whatever key you have bound to MouseControl in the game settings
+[*] Lightweight – only two small Harmony patches
+[/list]
+
+[h2]Installation[/h2]
+[list]
+[*] Install [b]BepInEx[/b] + [b]StationeersLaunchPad[/b] (required for Stationeers mods)
+[*] Subscribe to the Mod in the Workshop
+[*] Launch the game & double-tap your Mouse Control Key (default Alt) to toggle the cursor
+[/list]
+
+[h2]Usage[/h2]
+[list]
+[*] [b]Hold Alt[/b] (single tap 6 hold) – cursor appears while held, disappears on release (vanilla behaviour)
+[*] [b]Double-tap Alt[/b] – cursor stays visible; double-tap again to hide it
+[/list]
+
+[h2]Feedback & Support[/h2]
+Love it? Hate it? Broke it?
+Join the SSUI Discord: https://discord.gg/8n3vN92MyJ and let me know - or ping me somewhere else!

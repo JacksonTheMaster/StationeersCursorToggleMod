@@ -142,6 +142,22 @@
       },
       "url": "https://packages.unity.com"
     },
+    "stationeers.modding.exporter": {
+      "version": "https://github.com/ilodev/stationeers.modding.exporter.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.assetbundle": "1.0.0"
+      },
+      "hash": "645efedf4618db6125ddd90f91706770777529bc"
+    },
+    "stationeers.modding.tools": {
+      "version": "https://github.com/StationeersModding/StationeersModdingTools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3928221997a18cee2b613b0c189b7606391f5a54"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

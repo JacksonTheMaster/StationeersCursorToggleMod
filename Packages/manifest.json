@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "stationeers.modding.exporter": "https://github.com/ilodev/stationeers.modding.exporter.git",
+    "stationeers.modding.tools": "https://github.com/StationeersModding/StationeersModdingTools.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.burst": "1.8.21",
     "com.unity.collections": "2.2.1",

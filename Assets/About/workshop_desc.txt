@@ -1,12 +1,14 @@
-[h1]CursorToggle – Double-Tap to Toggle Mouse Cursor[/h1]
+[h1]CursorToggle – Toggle Mouse Cursor[/h1]
 
-[b]A StationeersLaunchPad mod that lets you double-tap the MouseControl key (default: Alt) to toggle the mouse cursor on/off, instead of having to hold it.[/b]
+[b]A StationeersLaunchPad mod that lets you tap the MouseControl key (default: Alt) to toggle the mouse cursor on/off, instead of having to hold it.[/b]
 
 [h2]Features[/h2]
 [list]
-[*] Single tap (hold) Alt: vanilla hold-to-show behaviour
-[*] Double-tap Alt: toggle cursor on permanently until you double-tap again
+[*] [b]Double-tap mode (default):[/b] double-tap Alt to toggle cursor on/off
+[*] [b]Single-tap mode:[/b] one tap toggles the cursor on/off
+[*] Switch between modes via the Mod Settings window (Main Menu -> Workshop -> CursorToggle -> Right side of screen, blue window)
 [*] Works with whatever key you have bound to MouseControl in the game settings
+[*] In Double-tap mode a single tap has vanilla behaviour
 [*] Lightweight – only two small Harmony patches
 [/list]
 
@@ -14,15 +16,21 @@
 [list]
 [*] Install [b]BepInEx[/b] + [b]StationeersLaunchPad[/b] (required for Stationeers mods)
 [*] Subscribe to the Mod in the Workshop
-[*] Launch the game & double-tap your Mouse Control Key (default Alt) to toggle the cursor
+[*] Launch the game & tap your Mouse Control Key (default Alt) to toggle the cursor
 [/list]
 
 [h2]Usage[/h2]
 [list]
-[*] [b]Hold Alt[/b] (single tap 6 hold) – cursor appears while held, disappears on release (vanilla behaviour)
-[*] [b]Double-tap Alt[/b] – cursor stays visible; double-tap again to hide it
+[*] [b]Double-tap Alt[/b] (default) – cursor stays visible; double-tap again to hide it
+[*] [b]Single-tap Alt[/b] (if configured) – one press toggles the cursor on/off
 [/list]
 
 [h2]Feedback & Support[/h2]
 Love it? Hate it? Broke it?
 Join the SSUI Discord: https://discord.gg/8n3vN92MyJ and let me know - or ping me somewhere else!
+
+
+Background image by: [b]@lorexcold[/b] https://steamcommunity.com/id/lorexcold/
+
+
+[url=https://ko-fi.com/JXSNTM] [img]https://help.ko-fi.com/hc/article_attachments/11833788361117[/img] [/url]

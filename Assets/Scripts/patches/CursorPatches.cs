@@ -3,7 +3,7 @@ using Assets.Scripts.UI;
 using HarmonyLib;
 using UnityEngine;
 
-namespace CursorToggle.Mod
+namespace CursorToggle
 {
     // ────────────────────────────────────────────────────────────────────────────
     // Harmony Patches
